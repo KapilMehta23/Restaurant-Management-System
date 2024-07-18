@@ -31,8 +31,28 @@ transaction_type (VARCHAR)
 date (DATE)
 amount (DECIMAL)
 payment_method (VARCHAR)
+
+
 Benefits
 Efficient data storage and retrieval
 Improved data accuracy and consistency
 Easy scalability
 Custom reports and analytics for informed decision-making
+
+
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone (https://github.com/KapilMehta23/Restaurant-Management-System)
+cd restaurant-management-system
+Set up the database:
+
+Import the provided SQL script to create the necessary tables.
+Configure the application:
+
+Update the database connection settings in the configuration file
+
+Run the application:
+python RestaurantManagement.py
