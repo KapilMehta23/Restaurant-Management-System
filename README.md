@@ -40,13 +40,13 @@ Easy scalability
 Custom reports and analytics for informed decision-making
 
 
-Installation
+#  Installation
 Clone the repository:
 
-bash
-Copy code
 git clone (https://github.com/KapilMehta23/Restaurant-Management-System)
+
 cd restaurant-management-system
+
 Set up the database:
 
 Import the provided SQL script to create the necessary tables.
